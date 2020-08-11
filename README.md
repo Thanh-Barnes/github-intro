@@ -1,7 +1,7 @@
 # github-intro
 JWD class intro
 
-Hi this is Thanh!
+Hi! This is Thanh.
 
 *Nice to meet you*
 
